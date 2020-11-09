@@ -69,6 +69,9 @@ Recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guarda
 
 
 ![N|Solid](https://www2.deloitte.com/content/dam/html/es/common-img/img-desarrollo-espiral.png)
+
+
+
 La actividad de ingeniería corresponde a las fases de los modelos clásicos: análisis, diseño, codificación, ...
 -Metodologías ágiles (Adaptativos)
 Son métodos de ingeniería del software basados en el desarrollo iterativo e incremental.El trabajo es realizado mediante la colaboración de equipos auto-organizados y multidisciplinarios, inmersos en un proceso compartido de toma de decisiones a corto plazo.
