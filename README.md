@@ -66,6 +66,8 @@ Recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guarda
 -Por omisión o falta de concreción del usuario/cliente.
 ##### Modelos evolutivos o incrementales
 -Modelo en espiral (Iterativos)
+
+
 ![N|Solid](https://www2.deloitte.com/content/dam/html/es/common-img/img-desarrollo-espiral.png)
 La actividad de ingeniería corresponde a las fases de los modelos clásicos: análisis, diseño, codificación, ...
 -Metodologías ágiles (Adaptativos)
