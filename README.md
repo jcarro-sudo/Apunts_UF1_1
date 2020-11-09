@@ -54,3 +54,19 @@ Recoge nuevos datos desde la entrada, se muestran los resultados, se leen/guarda
 ##### Mantenimiento:
 -Durante la explotación del sistema software es necesario realizar cambios ocasionales.
 -Como puede ser una actualización,un parche para corregir errores o simplemente implementar novedades y adaptarlas en este programa.
+
+## Modelos de desarrollo de Software
+
+##### Modelos Clásicos 
+-Modelo en cascada :Modelo de mayor antigüedad.Las fases han de realizarse en el orden indicado.Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones.
+-Modelo en V: Modelo muy parecido al modelo en cascada.Los niveles superiores indican mayor abstracción.Los niveles inferiores indican mayor nivel de detalle.
+##### Modelo de construcción de prototipos
+-A menudo los requisitos no están especificados claramente:
+-Por no existir experiencia previa.
+-Por omisión o falta de concreción del usuario/cliente.
+##### Modelos evolutivos o incrementales
+-Modelo en espiral (Iterativos)
+![N|Solid](https://www2.deloitte.com/content/dam/html/es/common-img/img-desarrollo-espiral.png)
+La actividad de ingeniería corresponde a las fases de los modelos clásicos: análisis, diseño, codificación, ...
+-Metodologías ágiles (Adaptativos)
+Son métodos de ingeniería del software basados en el desarrollo iterativo e incremental.El trabajo es realizado mediante la colaboración de equipos auto-organizados y multidisciplinarios, inmersos en un proceso compartido de toma de decisiones a corto plazo.
